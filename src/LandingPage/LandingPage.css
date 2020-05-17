@@ -1,0 +1,11 @@
+#landingPage {
+    background: #fff url('https://pixabay.com/get/54e2d1424e52ad14f6d1867dda6d49214b6ac3e45659704872277fd69f/strawberry-bushes-2241401_1920.jpg');
+}
+#landingPageLeft {
+    height:50vh;
+    width: 80vh;
+}
+#landingPageLeft iframe {
+    height: inherit;
+    width: inherit;
+}
